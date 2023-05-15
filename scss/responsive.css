@@ -1,0 +1,403 @@
+@media (max-width: 576px) { 
+    .sidbar {
+        display: none;
+      }
+      .about-all .experiance2 {
+        border-right: none;
+      }
+      .skill-all .skill-design-right {
+        margin-left: 0;
+      }
+      .skill-all .skill-design-left {
+        margin-right: 0px;
+      }
+      .hero-section-all .hero-section h3 {
+        padding-top: 100px;
+        font-size: 25px;
+      }
+      .hero-section-all .hero-section h1 {
+        font-size: 40px;
+      }
+      .hero-section-all .hero-section p {
+        font-size: 16px;
+      }
+      .about-all .about-top .abcr p {
+        font-size: 25px;
+      }
+      .about-all .about-left h2 {
+        font-size: 20px;
+      }
+      .about-all .about-left p {
+        line-height: 25px;
+        font-size: 15px;
+      }
+      .about-all .experiance p {
+        font-size: 15px;
+      }
+      .about-all .experiance h2 {
+        font-size: 40px;
+      }
+      .about-all .experiance2 p {
+        font-size: 15px;
+      }
+      .about-all .experiance2 h2 {
+        font-size: 40px;
+      }
+      .about-all .experiance {
+        padding-right: 10px;
+        margin-right: -7px;
+      }
+      .about-all .experiance3 h2 {
+        font-size: 40px;
+      }
+      .about-all .experiance3 p {
+        font-size: 15px;
+      }
+      .about-all .about-top h2 {
+        font-size: 50px;
+      }
+      .about-all .about-top {
+        padding: 0px 0px 10px 0px;
+      }
+      .about-all .about-top .abcr {
+        top: 10px;
+      }
+      .about-all {
+        padding: 40px 10px;
+      }
+      .about-all .experiance3 {
+        margin: 0px -7px;
+      }
+      .about-all .experiance1 h2 {
+        font-size: 40px;
+      }
+      .about-all .experiance1 p {
+        font-size: 15px;
+      }
+      .about-all .experiance1 {
+        margin: 0px 0;
+      }
+      .services-all {
+        padding: 0px 20px 40px 20px;
+      }
+      .services-all .services-top h2 {
+        font-size: 50px;
+      }
+      .services-all .services-top .abcr {
+        top: 48px;
+      }
+      .services-all .services-top .abcr p{
+        font-size: 25px;
+      }
+      .services-all .service-card .service-card-right p {
+        font-size: 15px;
+        line-height: 25px;
+      }
+      .services-all .service-card .service-card-right h3 {
+        font-weight: 500;
+      }
+      .summary-all .summary-top h2 {
+        font-size: 50px;
+      }
+      .summary-all .summary-card h2 {
+        font-weight: 500;
+        font-size: 20px;
+      }
+      .summary-all .summary-card .summary-card-right h3 {
+        font-weight: 500;
+        font-size: 18px;
+      }
+      .summary-all .summary-card .summary-card-right p {
+        font-size: 14px;
+        line-height: 24px;
+      }
+      .summary-all .summary-card .summary-card-right .tesxt-danger {
+        font-size: 14px;
+      }
+      .skill-head h2 {
+        font-weight: 500;
+        font-size: 20px;
+      }
+      .skill-all .skill-design-left .skill-design p {
+        font-size: 15px;
+      }
+      .summary-all .summary-top .abcr p {
+        font-size: 25px;
+      }
+      .summary-all .summary-top .abcr {
+        top: 48px;
+      }
+      .summary-all {
+        padding: 0px 20px 30px 20px;
+      }
+      .skill-head {
+        padding: 0px 10px 0px 10px;
+      }
+      .skill-all {
+        padding: 0px 20px 20px 20px;
+      }
+      .cv-download {
+        padding: 15px 0 50px 0;
+      }
+      .portfolio-all .portfolio-top h2 {
+        font-size: 40px;
+      
+      }
+      .portfolio-all .portfolio-top .abcr p {
+        font-size: 25px;
+      }
+      .portfolio-all .protifolio-galary .menu .nav li {
+        font-size: 15px;
+        width: 60px;
+        margin: 0;
+        padding: 0;
+      }
+      .portfolio-all {
+        padding: 0px 10px 40px 10px;
+      }
+      .portfolio-all .portfolio-top .abcr {
+        top: 43px;
+      }
+      .portfolio-all .portfolio-top {
+        padding: 40px 0px 0px 0px;
+      }
+      .testimunial-all {
+        padding: 0px 20px 30px 20px;
+      }
+      .testimunial-all .testimunial-top h2 {
+        font-size: 40px;
+      }
+      .testimunial-all .testimunial-top .abcr {
+        top: 44px;
+      }
+      .testimunial-all .testimunial-top .abcr p {
+        font-size: 25px;
+      }
+      .testimunial-all .swiper-wrapper .swiper-slide .slider-paragrap p {
+        font-size: 15px;
+      }
+      .testimunial-all .swiper-wrapper .swiper-slide {
+        padding: 10px;
+      }
+      .contact-all {
+        padding: 0px 20px 50px 20px;
+      }
+      .contact-all .contact-top h2 {
+        font-size: 40px;
+      }
+      .contact-all .contact-top .abcr {
+        top: 48px;
+      }
+      .contact-all .contact-top .abcr p{
+       font-size: 25px;
+      }
+      .contact-all .form-description P {
+        line-height: 25px;
+        font-size: 15px;
+      }
+      .contact-all .form-description .number li {
+        font-size: 15px;
+      }
+      .contact-all .form-description h2 {
+        font-size: 18px;
+      }
+      .contact-all .form-description h3 {
+        font-size: 18px;
+      }
+      .contact-all .form-description .icon-list li {
+        font-size: 15px;
+      }
+      .contact-all .send-all h2 {
+        font-size: 18px;
+      }
+      .contact-all .send-all .name input {
+        padding: 5px;
+        font-size: 14px;
+      }
+      .contact-all .send-all .email input {
+        padding: 5px;
+        font-size: 14px;
+      }
+      .contact-all .send-all .massage textarea {
+        padding: 5px;
+        font-size: 14px;
+      }
+      .contact-all .contact-top {
+        padding: 40px 0px 0px 0px;
+      }
+      .futter-all {
+        padding: 40px 20px 40px 20px;
+      }
+      .futter-all p {
+        text-align: center;
+        font-size: 15px;
+      }
+      .futter-all {
+        justify-content: center;
+      }
+      .mobile-menu2 {
+        padding: 5px 5px;
+      }
+      .futter-all ul .bord {
+        font-size: 15px;
+      }
+      .futter-all ul li {
+        font-size: 15px;
+      }
+      .summary-all .summary-card .summary-card-right {
+        margin-top: 0;
+      }
+      .contact-all .send-all .massage {
+        padding-top: 15px;
+      }
+}
+@media (min-width: 576px) { 
+    .sidbar {
+        display: none;
+      }
+      .about-all .experiance2 {
+        border-right: none;
+      }
+      .skill-all .skill-design-right {
+        margin-left: 0;
+      }
+      .skill-all .skill-design-left {
+        margin-right: 0px;
+      }
+      .hero-section-all .hero-section h3 {
+        padding-top: 70px;
+      }
+      .services-all .services-top h2 {
+        font-size: 100px;
+      }
+      .services-all .services-top h2 {
+        font-size: 100px;
+      }
+      .about-all .about-top h2 {
+        font-size: 90px;
+      }
+      .about-all .about-top .abcr {
+        top: 20px;
+      }
+      .about-all .about-top {
+        padding: 0px 0px 20px 0px;
+      }
+      .services-all .services-top .abcr {
+        top: 65px;
+      }
+      .summary-all .summary-top h2 {
+        font-size: 100px;
+      }
+      .summary-all .summary-top .abcr {
+        top: 65px;
+      }
+      .portfolio-all .portfolio-top h2 {
+        font-size: 90px;
+      }
+      .portfolio-all .portfolio-top .abcr {
+        top: 60px;
+      }
+      .testimunial-all .testimunial-top h2 {
+        font-size: 81px;
+      }
+      .testimunial-all {
+        padding: 0px 40px 80px 40px;
+      }
+      .contact-all .contact-top h2 {
+        font-size: 100px;
+      }
+      .testimunial-all .testimunial-top .abcr {
+        top: 55px;
+      }
+      .contact-all .contact-top .abcr {
+        top: 65px;
+      }
+      .futter-all {
+        justify-content: center;
+      }
+ }
+
+
+@media (min-width: 768px) { 
+    .about-all .experiance2 {
+        border-right: 1px solid #eaeaea;
+      }
+      .skill-all .skill-design-right {
+        margin-left: 20px;
+      }
+      .skill-all .skill-design-left {
+        margin-right: 20px;
+      }
+      .services-all .services-top h2 {
+        font-size: 120px;
+      }
+      .services-all .services-top h2 {
+        font-size: 120px;
+      }
+      .about-all .about-top h2 {
+        font-size: 120px;
+      }
+      .about-all .about-top .abcr {
+        top: 120px;
+      }
+      .about-all .about-top {
+        padding: 80px 0px 20px 0px;
+      }
+      .services-all .services-top .abcr {
+        top: 80px;
+      }
+      .summary-all .summary-top h2 {
+        font-size: 120px;
+      }
+      .summary-all .summary-top .abcr {
+        top: 80px;
+      }
+      .portfolio-all .portfolio-top h2 {
+        font-size: 120px;
+      }
+      .portfolio-all .portfolio-top .abcr {
+        top: 80px;
+      }
+      .testimunial-all .testimunial-top h2 {
+        font-size: 120px;
+      }
+      .testimunial-all {
+        padding: 0px 60px 80px 60px;
+      }
+      .contact-all .contact-top h2 {
+        font-size: 120px;
+      }
+      .testimunial-all .testimunial-top .abcr {
+        top: 80px;
+      }
+      .contact-all .contact-top .abcr {
+        top: 80px;
+      }
+      .futter-all ul {
+        position: absolute;
+        right: 50px;
+      }
+ }
+
+
+@media (min-width: 992px) { 
+    .sidbar {
+        display: block;
+      }
+      .mobile-menu2 {
+        display: none;
+      }
+      .hero-section-all .hero-section h3 {
+        padding-top: 0px;
+      }
+}
+
+
+@media (min-width: 1200px) {
+    
+}
+
+
+@media (min-width: 1400px) { 
+
+ }
